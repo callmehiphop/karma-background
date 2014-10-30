@@ -1,7 +1,23 @@
 {
   "name": "karma-background",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "launch Karma as a background process",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callmehiphop/karma-background.git"
+  },
+  "keywords": [
+    "karma",
+    "background",
+    "gulp"
+  ],
+  "author": "Dave Gramlich<callmehiphop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callmehiphop/karma-background/issues"
+  },
+  "homepage": "https://github.com/callmehiphop/karma-background",
   "peerDependencies": {
     "karma": "^0.12.24"
   },
