@@ -1,0 +1,17 @@
+{
+  "name": "karma-background",
+  "version": "0.0.0",
+  "description": "launch Karma as a background process",
+  "peerDependencies": {
+    "karma": "^0.12.24"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "chai": "^1.9.2",
+    "karma-chai": "^0.1.0",
+    "gulp": "^3.8.9",
+    "karma-spec-reporter": "0.0.13"
+  }
+}
