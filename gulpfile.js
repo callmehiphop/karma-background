@@ -9,10 +9,10 @@ var karmaPath = __dirname + '/karma.conf.js';
  * Runs once
  */
 gulp.task('karma', function (done) {
-  karma.server.start({
+  new karma.Server({
     configFile: karmaPath,
     singleRun: true
-  }, done);
+  }, done).start();
 });
 
 /**

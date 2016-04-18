@@ -19,15 +19,15 @@
   },
   "homepage": "https://github.com/callmehiphop/karma-background",
   "peerDependencies": {
-    "karma": "^0.12.24"
+    "karma": "^0.13.22"
   },
   "devDependencies": {
-    "mocha": "^2.0.1",
-    "karma-mocha": "^0.1.9",
-    "karma-phantomjs-launcher": "^0.1.4",
-    "chai": "^1.9.2",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
     "karma-chai": "^0.1.0",
-    "gulp": "^3.8.9",
-    "karma-spec-reporter": "0.0.13"
+    "karma-mocha": "^0.2.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-spec-reporter": "0.0.26",
+    "mocha": "^2.4.5"
   }
 }
