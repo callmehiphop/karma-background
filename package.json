@@ -1,6 +1,6 @@
 {
   "name": "karma-background",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "launch Karma as a background process",
   "main": "index.js",
   "repository": {
